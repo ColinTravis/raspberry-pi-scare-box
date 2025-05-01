@@ -14,7 +14,7 @@ SPOOKY_IMAGE_PATH = "/home/admin/prank_files/spooky_image.jpg" # Or .png etc.
 MIN_INITIAL_WAIT = 30 * 60   # Minimum time before first event (e.g., 45 mins)
 MAX_INITIAL_WAIT = 45 * 60   # Maximum time before first event (e.g., 90 mins)
 
-STATIC_ON_DURATION = 10      # How long static video stays visible (e.g., 30 secs)
+STATIC_ON_DURATION = 5      # How long static video stays visible (e.g., 30 secs)
 SPOOKY_ON_DURATION = 5      # How long spooky image stays visible (e.g., 20 secs)
 
 # --- Sleep Durations ---
